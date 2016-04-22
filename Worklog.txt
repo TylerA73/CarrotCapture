@@ -1,0 +1,78 @@
+Date			Time			Tasks
+
+March 1, 2015		2.5 hrs			-Menu look and feel
+						-Print functionality
+						-Colour pickers functionality(both fill and stroke)
+						-Choose rectangle or circle
+----------------------------------------------------------------------------------------------------
+
+March 7, 2015					-Fixed fill colour chooser
+			3.0 hrs			-Fixed stroke colour chooser
+						-Implemented and added stroke thickness slider
+						-Exit button in menu works
+						-Started triangle shape
+----------------------------------------------------------------------------------------------------
+
+March 8, 2015		2.0 hrs			-Completed Oval 
+						-Triangle implemented and working
+						-Started on Line
+----------------------------------------------------------------------------------------------------
+
+March 14, 2015		2.5 hrs			-Line is working
+						-Rounded Rectangle working
+						-Resizing for rounded rectangle works
+						-Oval resizing works
+						-Triangle resizing works
+						-Resizing for Line works
+						-changed selected shape appearance
+----------------------------------------------------------------------------------------------------
+
+March 15, 2015		1.5 hrs			-Help menu up and started
+						-Implemented multiple pages into the help menu
+						-Help menu lists current page number, and total pages
+						-Still need to align the page number text properly
+----------------------------------------------------------------------------------------------------
+
+March 26, 2015		2.0 hrs			-Able to move shapes around
+						-Able to add text, and resize it. Cannot move it around
+						-Able to change the text before adding text into the canvas
+						-Can't edit existing text yet
+----------------------------------------------------------------------------------------------------
+
+March 28, 2015		2.0 hrs			-Most shapes can move
+						-Moving Triangle is still a little buggy
+						-Can change font between five different fonts
+----------------------------------------------------------------------------------------------------
+
+April 2, 2015		3.5 hrs			- Added capability of adding images
+						- Can draw on images
+						- Can now edit existing text (both contents and font type)
+						- Still can't seem to fix the triangle moving bug.
+						- Don't need to right click shape to select/deselect. Did this to allow right click to be used for copy/paste/delete.
+-----------------------------------------------------------------------------------------------------
+
+April 3, 2015		3.0 hrs			- To select shape, simply left click it
+						- To deselect, click away from it
+						- Can only select one shape at a time
+						- Right click menu supported. Simply right click a selected shape
+						- Delete, move to front, and move to back work
+						- Copy, Cut, and Paste options were added
+						- Copy does not work. Cut and paste work with some minor bugs
+------------------------------------------------------------------------------------------------------
+
+April 4, 2015		2.0 hrs			- Still can't get copy to work
+						- Move up and move back work
+------------------------------------------------------------------------------------------------------
+
+April 24, 2015		4.0 hrs			- Copy finally works, with a minor bug with triangles. Doesn't paste at the right size
+						- Had to change shape back to Shape type instead of Node. Was the cause of copy issues
+						- Can save and open files. (saves and opens pngs. Cannot edit the opened files.)
+------------------------------------------------------------------------------------------------------
+
+April 25, 2015          1.5 hrs			- Took line out.
+						- Added useful content into the help menu.
+						- Images that are added are now automatically added to the back.
+						- README file created
+
+
+			Total: 29.5 hrs
